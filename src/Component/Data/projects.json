@@ -1,0 +1,27 @@
+[
+    {
+      "key": 1,
+      "title": "Portfolio using JS",
+      "imageSrc": "https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png",
+      "description":"An interactive portfolio website showcasing my projects, skills, and experience in web development.",
+      "demo": "https://anujaappasopatil.netlify.app/#portfolio",
+      "source": "https://github.com/anujaappasopatil/portfolio"
+    },
+    {
+      "key": 2,
+      "title": "Text convert to voice",
+      "imageSrc": "https://th.bing.com/th/id/OIP.SMwi42ObNb6i0BzofIa91QHaFj?rs=1&pid=ImgDetMain",
+      "description": "A project that converts text into voice, providing seamless text-to-speech functionality",
+      "demo": "https://convert-text-into-voice.netlify.app/",
+      "source": "https://github.com/anujaappasopatil/text_covert_into_voice"
+    },
+    {
+      "key": 3,
+      "title": "Weather App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+      "description": "A weather app that provides real-time weather updates and forecasts for multiple locations.",
+      "demo": "https://669be4fc9dd1e091df104a65--boisterous-alfajores-04c2f7.netlify.app/",
+      "source": "https://github.com/anujaappasopatil/Weather"
+    }
+  ]
+  
