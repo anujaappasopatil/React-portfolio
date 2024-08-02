@@ -6,25 +6,23 @@ import Skill from './Component/Skill'
 import Project from './Component/Project'
 import contact from './Component/Contact'
 import Contact from './Component/Contact'
-import Aos from "aos";
-import"aos/dist/aos.css";
-
-
-const App = () => {
-   useEffect(() =>{
-   Aos.init();
-   },[])
+import Aos from 'aos';
+import 'aos/dist/aos.css'; 
+function App() {
+  useEffect(() => {
+    Aos.init()
+  }, [])
   return (
     <>
-    <Navebar />
-    <div className="container">
-    <Home />
-    <Experience />
-    <Skill />
-    <Project />
-   <Contact />
-    </div>
-  </>
+      <Navebar />
+      <div className="container">
+        <Home />
+        <Experience />
+        <Skill />
+        <Project />
+        <Contact />
+      </div>
+    </>
 
   )
 }
